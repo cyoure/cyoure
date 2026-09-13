@@ -1,5 +1,5 @@
 <h2>HI ✋ </h2></p>
-<h3> 안녕하세요 저는 백엔드 개발자를 목표로 하고 있습니다! </h3>
+<h3> 안녕하세요! 저는 백엔드 개발자를 목표로 하고 있습니다! </h3>
 
 ![Top Langs](https://github-readme-stats-theta-three-41.vercel.app/api/top-langs/?username=cyoure&layout=compact)
 
